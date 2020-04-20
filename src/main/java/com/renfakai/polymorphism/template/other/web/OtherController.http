@@ -1,0 +1,8 @@
+GET http://localhost:8080/other/hello?name=ren&policy=hello
+
+
+###
+GET http://localhost:8080/other/hello?name=ren&policy=world
+
+
+
