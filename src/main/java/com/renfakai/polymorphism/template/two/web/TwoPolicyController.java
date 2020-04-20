@@ -1,4 +1,4 @@
-package com.renfakai.polymorphism.template.two.service.web;
+package com.renfakai.polymorphism.template.two.web;
 
 import com.renfakai.polymorphism.dto.HelloRequest;
 import com.renfakai.polymorphism.template.two.service.manager.ThreePolicyManager;
